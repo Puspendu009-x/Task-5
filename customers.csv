@@ -1,0 +1,5 @@
+CustomerID,FirstName,LastName,Email,RegistrationDate
+1,John,Smith,john.smith@example.com,15-01-2024
+2,Jane,Doe,jane.doe@example.com,20-02-2024
+3,Peter,Jones,peter.jones@example.com,10-03-2024
+4,Susan,Meyers,susan.meyers@example.com,05-04-2024
